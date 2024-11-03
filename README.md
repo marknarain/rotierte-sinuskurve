@@ -1,2 +1,3 @@
 # rotierte-sinuskurve
-Funktion der Transformation einer Sinuskurve im Kartesischen Koordinatensystem
+
+Eine detaillierte Beschreibung finden Sie im Dokument [Rotierter Sinus - Dokumentation.pdf](https://github.com/marknarain/rotierte-sinuskurve/blob/main/Rotierter%20Sinus%20-%20Dokumentation.pdf)
